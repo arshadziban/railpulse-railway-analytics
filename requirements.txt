@@ -1,5 +1,10 @@
 duckdb==1.5.6
 ipykernel==7.4.0
+kaleido==1.5.0
+nbconvert==7.17.2
 nbformat==5.11.1
 pandas==3.0.6
 plotly==7.1.0
+pytest==9.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
