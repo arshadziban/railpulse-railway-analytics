@@ -16,8 +16,9 @@ dist/
 # Jupyter
 .ipynb_checkpoints/
 
-# DuckDB database (rebuilt by notebooks/01_data_setup.ipynb)
+# DuckDB database (rebuilt by notebooks 01 and 03; railpulse.duckdb is committed for the hosted dashboard)
 *.duckdb
+!railpulse.duckdb
 *.duckdb.wal
 *.duckdb.tmp/
 
