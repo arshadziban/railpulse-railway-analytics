@@ -1,4 +1,8 @@
-[![Open Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://railpulse-railway-analytics.streamlit.app/live_board)
+<p align="center">
+  <a href="https://railpulse-railway-analytics.streamlit.app/live_board">
+    <img src="images/live_dashboard_button.svg" alt="View Live Dashboard" width="300">
+  </a>
+</p>
 
 ![RailPulse case study](case_study/railpulse_case_study.png)
 
