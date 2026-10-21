@@ -1,3 +1,5 @@
+[![Open Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://railpulse-railway-analytics.streamlit.app/live_board)
+
 ![RailPulse case study](case_study/railpulse_case_study.png)
 
 ## Dashboard
